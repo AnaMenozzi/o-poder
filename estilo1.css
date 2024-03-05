@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    font-size: 40px;
+}
+strong {
+    color: darkgray;
+}
+p {
+    font-size: 14px;
+}
+a {
+    color: dodgerblue;
+}

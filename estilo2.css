@@ -1,0 +1,17 @@
+body  {
+    background-color: mistyrose;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+h1 {
+    font-size: 35px;
+}
+strong {
+    color: lightcoral;
+}
+p {
+    font-size: 14px;
+}
+a {
+    color: palevioletred;
+}
